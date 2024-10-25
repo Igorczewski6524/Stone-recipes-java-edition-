@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "222",
+    "131",
+    "141"
+  ],
+  "key": {
+    "1": "minecraft:diorite",
+    "2": "#minecraft:planks",
+    "3": "minecraft:iron_ingot",
+    "4": "minecraft:redstone"
+  },
+  "result": {
+    "id": "minecraft:piston",
+    "count": 1
+  }
+} 

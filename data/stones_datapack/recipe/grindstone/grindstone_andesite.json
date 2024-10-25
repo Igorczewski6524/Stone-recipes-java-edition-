@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "131",
+      "2 2"
+    ],
+    "key": {
+      "1": "minecraft:stick",
+      "2": "#minecraft:planks",
+      "3": "minecraft:andesite_slab"
+    },
+    "result": {
+      "id": "minecraft:grindstone",
+      "count": 1
+    }
+  } 

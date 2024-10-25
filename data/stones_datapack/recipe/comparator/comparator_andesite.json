@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " 1 ",
+      "121",
+      "333"
+    ],
+    "key": {
+      "1": "minecraft:redstone_torch",
+      "2": "minecraft:quartz",
+      "3": "minecraft:andesite"
+
+      },
+    "result": {
+      "id": "minecraft:comparator",
+      "count": 1
+    }
+  } 

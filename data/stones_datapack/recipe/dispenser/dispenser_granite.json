@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "131",
+    "121"
+  ],
+  "key": {
+    "1": "minecraft:granite",
+    "2": "minecraft:redstone",
+    "3": "minecraft:bow"
+  },
+  "result": {
+    "id": "minecraft:dispenser",
+    "count": 1
+  }
+} 
